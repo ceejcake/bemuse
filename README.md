@@ -1,4 +1,4 @@
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ceejcake/Pioneer-Unblocker-Master)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ceejcake/bemuse)
 
 <h1 align="center"><a href="https://bemuse.ninja/"><img src="website/static/img/logo.png" alt="Bemuse 〜beat☆music☆sequence〜" height="162" /></a></h1>
 
